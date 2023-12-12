@@ -1,6 +1,5 @@
-package com.example.asterixapp;
+package com.example.character;
 
-import com.example.character.AsterixRepo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
